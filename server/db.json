@@ -25,10 +25,5 @@
       "id": 4
     }
   ],
-  "permissions": [
-    "CREATE",
-    "READ",
-    "UPDATE",
-    "DELETE"
-  ]
+  "permissions": ["CREATE", "READ", "UPDATE", "DELETE"]
 }

@@ -14,8 +14,6 @@ interface AxiosBaseQueryArgs extends AxiosRequestConfig {
 type DispatchType = {
   dispatch: AppDispatch;
 };
-
-// Custom axios base query function with typing for RTK Query
 const axiosBaseQuery =
   ({ baseUrl }: { baseUrl: string } = { baseUrl: "" }): BaseQueryFn<AxiosBaseQueryArgs> =>
   async ({ url, method, data, params }, { dispatch }: DispatchType) => {

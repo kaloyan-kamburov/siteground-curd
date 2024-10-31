@@ -10,7 +10,7 @@ Steps to run the project:
 2. Install project
 
 - Go to project folder and type 'npm install'
-- 2.2. Type 'npm run dev'
+- Type 'npm run dev'
 
 Disclaimer:
 

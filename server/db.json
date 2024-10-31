@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Shampoo",
+      "price": 222,
+      "currency": "BGN",
+      "id": 1
+    },
+    {
+      "name": "asd111",
+      "price": "1",
+      "currency": "USD",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "price": 4,
+      "currency": "test",
+      "id": 3
+    },
+    {
+      "name": "product 1",
+      "price": "22",
+      "currency": "eur",
+      "id": 4
+    }
+  ],
+  "permissions": [
+    "CREATE",
+    "READ",
+    "UPDATE",
+    "DELETE"
+  ]
+}
